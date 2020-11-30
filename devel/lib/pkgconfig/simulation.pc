@@ -1,0 +1,8 @@
+prefix=/home/kush/Desktop/sem3/en203/devel
+
+Name: simulation
+Description: Description of simulation
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
